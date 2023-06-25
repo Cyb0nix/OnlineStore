@@ -30,7 +30,7 @@
           </a>
           </nav>
           <div class="flex items-center">
-            <button class="btnlogout">Log Out</button>
+            <router-link to="/"><button class="btnlogout">Log Out</button></router-link>
           </div>
         </div>
       </div>
